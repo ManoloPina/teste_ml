@@ -1,0 +1,27 @@
+{
+  "name": "teste_mercado_livre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chico": "^2.0.9",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.3.0",
+    "gulp-minify": "0.0.14",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "normalize.css": "^5.0.0",
+    "vue": "^2.0.5"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-babel-minify": "^0.1.12",
+    "gulp-notify": "^2.2.0"
+  }
+}
