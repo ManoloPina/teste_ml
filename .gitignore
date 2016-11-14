@@ -2,3 +2,4 @@ node_modules
 assets/css/*
 assets/js/*
 assets/images/*
+.DS_Store

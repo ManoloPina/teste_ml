@@ -1,0 +1,42 @@
+.grid.ch-box {
+  padding: 0;
+}
+.grid {
+  width: 100%;
+}
+.grid .carousel img {
+  max-width: 25%;
+}
+.grid .col-1 {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+  padding: 2%;
+}
+.grid .col-1 img {
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
+.grid .col-1 .form-group {
+  display: block;
+  padding: 2% 0;
+}
+.grid .col-2 {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+  padding: 2%;
+}
+.grid .col-2 .carousel-box {
+  margin-top: 20px;
+}
+.grid .col-2 img {
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
+.grid .col-2 .form-group {
+  display: block;
+  padding: 2% 0;
+}

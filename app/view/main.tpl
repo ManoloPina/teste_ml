@@ -11,7 +11,7 @@
 
 <head>
     <title>Teste Mercado Livre</title>
-    <link rel="stylesheet" type="text/css" href="all.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/all.css">
     <link rel="stylesheet" href="node_modules/chico/dist/ui/chico.min.css" />
     <link rel="stylesheet" href="node_modules/normalize.css/normalize.css" />
 </head>
@@ -92,7 +92,7 @@
     <script src="https://ui.mlstatic.com/chico/tiny/0.2.3/tiny.min.js"></script>
     <script src="node_modules/chico/dist/ui/chico.min.js"></script>
     <script src="node_modules/vue/dist/vue.min.js"></script>
-    <script src="all.js"></script>
+    <script src="assets/js/all.js"></script>
 </body>
 
 </html>
